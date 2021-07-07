@@ -1,0 +1,36 @@
+my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+input
+{
+    background: grey;
+}
+#schoolPic{
+    width: 1000px;  
+}
+body{
+    text-align: center;
+}
+#mascot{
+    width:50px;
+}
+#contact{
+    background-color: lightgoldenrodyellow;
+    text-align: left;
+}
+#map{
+    margin-left: 5%;
+    margin-bottom: 5%;
+    text-align: left;
+}
+#nameContact{
+    text-align: center;
+}
+.align{
+    margin-left: 55%;
+    text-align: center;
+}
